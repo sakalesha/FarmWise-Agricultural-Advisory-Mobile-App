@@ -1,0 +1,27 @@
+{
+  "name": "FarmWise - Agricultural Advisory",
+  "short_name": "FarmWise",
+  "description": "Your Agricultural Advisory Assistant - Expert farming guidance for better yields",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#22C55E",
+  "background_color": "#FEFDF9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["agriculture", "farming", "advisory", "education"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
